@@ -1,0 +1,7 @@
+C:\Users\fodorr\Gitwork\osztalyzatok\bin\Debug\osztalyzatok.exe.config
+C:\Users\fodorr\Gitwork\osztalyzatok\bin\Debug\osztalyzatok.exe
+C:\Users\fodorr\Gitwork\osztalyzatok\bin\Debug\osztalyzatok.pdb
+C:\Users\fodorr\Gitwork\osztalyzatok\obj\Debug\osztalyzatok.csproj.AssemblyReference.cache
+C:\Users\fodorr\Gitwork\osztalyzatok\obj\Debug\osztalyzatok.csproj.CoreCompileInputs.cache
+C:\Users\fodorr\Gitwork\osztalyzatok\obj\Debug\osztalyzatok.exe
+C:\Users\fodorr\Gitwork\osztalyzatok\obj\Debug\osztalyzatok.pdb
